@@ -122,4 +122,5 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 wordcloud==1.8.1
 wrapt==1.12.1
+xgboost==1.4.1
 zipp==3.4.0
