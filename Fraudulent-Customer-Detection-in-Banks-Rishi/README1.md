@@ -26,10 +26,8 @@ All the external dependencies can be installed by using ```pip install -r requir
 ## Author
 * Rusali
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Rusali](https://www.linkedin.com/in/rusali-saha-0409921a3/)
-
-
 ## Contributor
-* [Rishikesh](https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/)
+* Rishikesh 
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Rusali](https://www.linkedin.com/in/rusali-saha-0409921a3/)
 
